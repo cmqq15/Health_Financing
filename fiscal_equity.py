@@ -13,7 +13,7 @@ import pandas as pd
 
 DEFAULT_NEED_WEIGHTS = {
     "poverty_rate": 0.3,
-    "hiv_prevalence": 0.4,
+    "hiv_prevalence": 0.02,
     "maternal_mortality_ratio": 0.3,
 }
 
